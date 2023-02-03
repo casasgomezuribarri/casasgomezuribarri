@@ -1,7 +1,7 @@
 👋 Hi, I’m @casasgomezuribarri (Iván)
 
 - 👀 I’m interested in data analysis and visualisation, with a strong focus on the study of how systems work in nature
-- 🌱 I’m an PhD student in the UK, where I work with malaria mosquitoes
+- 🌱 I’m a PhD student in the UK, where I work with malaria mosquitoes
 - 🤝 Always happy to get involved in new challenges. I am especially interested in disease and vector ecology and ecosystem functions and services
 
 
